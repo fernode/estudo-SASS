@@ -396,9 +396,6 @@ header {
 
 header .container {
   position: relative; }
-  @media (max-width: 980px) {
-    header .container {
-      position: static; } }
 
 .menu-opcoes {
   position: absolute;
